@@ -3,5 +3,6 @@
         "node_modules{,/**}", 
         ".env"
     ],
-    "appService.deploySubpath": "."
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/a8cd39b7-ed14-4477-a379-930fb752e1fb/microsoft.web/sites/subscriptions/a8cd39b7-ed14-4477-a379-930fb752e1fb/resourceGroups/learn-4de84aac-0c04-4687-a546-7837bee6fc84/providers/Microsoft.Web/sites/dsafran92-rentals"
 }
